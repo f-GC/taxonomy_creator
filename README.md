@@ -12,7 +12,7 @@ The scipt looks for two columns in the excel; taxonomy, which contains the taxon
 
 - Example table:
 
-| Taxonomy      | name      |
+| taxonomy      | name      |
 | -----------   | --------  |
 | tags          | my_tag1   |
 | tags          | my_tag2   |
